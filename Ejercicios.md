@@ -1,4 +1,4 @@
-	## Algoritmo para calcular el promedio de 4 calificaciones, solicitando nombre y las calificaciones   
+## Algoritmo para calcular el promedio de 4 calificaciones, solicitando nombre y las calificaciones   
     
     Algoritmo promedio
       nombre<-""
