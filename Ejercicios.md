@@ -64,30 +64,30 @@
  
 ##Algoritmo para_calcular_el_tiempo_en_leer_los_nombres_de_todo_el_mundo 
  
-Algoritmo leer_habitantes_clase
-	habitantes<-0
-	tiempo_total<-0
-	años<-0
-	meses<-0
-	mes_real<-0
-	dias<-0
-	dias_real<-0
-	seg<-0
-	seg_dia=60*60*24
-	seg_mes=seg_dia*30
-	seg_año=seg_mes*12
-	Escribir "ingresa el número de habitantes"
-	Leer habitantes
-	tiempo_total=habitantes*1
-	años=TRUNC(tiempo_total/seg_año)
-	Escribir años, " años,"
-	mes_real=tiempo_total MOD seg_año
-	meses=TRUNC(mes_real/seg_mes)
-	Escribir meses " meses,"
-	dias_real=mes_real MOD seg_mes
-	dias=TRUNC(dias_real/seg_dia)
-	Escribir dias " días. y"
-	seg=dias_real MOD seg_dia
-	Escribir seg, " segundos"
-	Escribir "Tardarías ", años, " años,",meses," meses, ",dias," días, y ",seg," segundos" 
-FinAlgoritmo    
+	Algoritmo leer_habitantes_clase
+		habitantes<-0
+		tiempo_total<-0
+		años<-0
+		meses<-0
+		mes_real<-0
+		dias<-0
+		dias_real<-0
+		seg<-0
+		seg_dia=60*60*24
+		seg_mes=seg_dia*30
+		seg_año=seg_mes*12
+		Escribir "ingresa el número de habitantes"
+		Leer habitantes
+		tiempo_total=habitantes*1
+		años=TRUNC(tiempo_total/seg_año)
+		Escribir años, " años,"
+		mes_real=tiempo_total MOD seg_año
+		meses=TRUNC(mes_real/seg_mes)
+		Escribir meses " meses,"
+		dias_real=mes_real MOD seg_mes
+		dias=TRUNC(dias_real/seg_dia)
+		Escribir dias " días. y"
+		seg=dias_real MOD seg_dia
+		Escribir seg, " segundos"
+		Escribir "Tardarías ", años, " años,",meses," meses, ",dias," días, y ",seg," segundos" 
+	FinAlgoritmo    
