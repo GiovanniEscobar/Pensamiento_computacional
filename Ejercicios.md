@@ -61,7 +61,9 @@
      Escribir ""
      Escribir "el tiempo que tardaría en leer los nombres de todo el mundo es de:",años, " años, ",semanas," semanas, ",días," días, ",horas," horas, ",minutos," minutos, y ",seg," segundos" 
     FinAlgoritmo
-    
+ 
+##Algoritmo para_calcular_el_tiempo_en_leer_los_nombres_de_todo_el_mundo 
+ 
 Algoritmo leer_habitantes_clase
 	habitantes<-0
 	tiempo_total<-0
