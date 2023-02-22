@@ -18,3 +18,5 @@
       Escribir "El monto total a pagar es: ",total 
     FinAlgoritmo
 
+![image](https://user-images.githubusercontent.com/125599397/220739110-6505fc60-15ae-4183-9a73-dd42e57e2901.png)
+![Diagrama sin título](https://user-images.githubusercontent.com/125599397/220739187-abb14de1-4814-4d10-a82c-14aeabc9e2c5.jpg)
