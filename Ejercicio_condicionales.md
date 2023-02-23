@@ -1,1 +1,1 @@
-
+## Ejercicio de un programa que calcula el promedio y el estatus (aprobado o reprobado), de un alumno de los siguientes tres grupos: grupo 1 (español, matemáticas, ciencias); grupo 2 (español, matemáticas, ciencias, inglés); grupo 3 (español, matemáticas, ciencias, inglés, música)
